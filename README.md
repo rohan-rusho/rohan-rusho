@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student+at+BUBT;Full+Stack+Web+%26+App+Developer;Designer+%26+Video+Editor;Machine+Learning+Enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=A+Software+Engineer;Full+Stack+Developer;Designer+%26+Video+Editor;Machine+Learning+Enthusiast" alt="Typing animation" />
 </p>
+
 
 ---
 
