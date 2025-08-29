@@ -13,6 +13,7 @@
 - 💼 Currently working as **Designer & Video Editor** at IT Training BD  
 - 💻 Skilled in **Web Development, App Development, and Machine Learning**  
 - 🎨 Passionate about mixing **creativity + technology**  
+- 🩸 **Blood Group:** O+  
 
 ---
 
