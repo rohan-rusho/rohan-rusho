@@ -1,143 +1,438 @@
-<!-- Header banner -->
+<!-- Header banner with animated gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A2A43,50:00C2FF,100:00E5FF&text=MD%20Rohan%20Islam&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=35&desc=Junior%20Android%20Engineer%20%F0%9F%9A%80%20Full%20Stack%20Developer&descAlign=50&descAlignY=60" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=MD%20ROHAN%20ISLAM&fontColor=FFFFFF&fontSize=65&fontAlign=50&fontAlignY=35&desc=Junior%20Android%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" alt="header"/>
 </p>
 
+<!-- Social badges with hover effect -->
 <div align="center">
   
-### Hi, I'm <span style="color:#00C2FF;">MD Rohan Islam</span> 👋
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rohan-rusho.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanislam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanislam.cse@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan-rusho)
+[![Profile Views](https://komarev.com/ghpvc/?username=rohan-rusho&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/rohan-rusho)
 
-<a href="https://komarev.com/ghpvc/?username=rohan-rusho">
-  <img src="https://komarev.com/ghpvc/?username=rohan-rusho&style=for-the-badge&label=Profile+Views" />
+<br>
+
+<!-- Dynamic typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+innovative+mobile+%26+web+solutions+%F0%9F%9A%80;Crafting+seamless+user+experiences+%F0%9F%8E%A8;Turning+ideas+into+scalable+apps+%F0%9F%92%A1" alt="Typing animation" />
+
+</div>
+
+---
+
+## 🎯 **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```yaml
+name: MD Rohan Islam
+role: Junior Android Engineer & Full Stack Developer
+location: Dhaka, Bangladesh
+education: CSE Student @ BUBT (Final Year)
+company: IT Training BD (Designer & Video Editor)
+blood_group: O+
+
+current_focus:
+  - Android Development (Java/Kotlin)
+  - Machine Learning & AI Integration
+  - UI/UX Design & Animation
+  - Building scalable full-stack applications
+
+interests:
+  - 📱 Mobile App Development
+  - 🎨 Creative Design & Video Editing
+  - 🤖 AI/ML Applications
+  - 🌐 Open Source Contributions
+  - 📚 Continuous Learning
+
+motto: "Code with passion, design with purpose."
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ **Technology Arsenal**
+
+<details open>
+<summary><b>💼 Core Technologies</b></summary>
+<br>
+
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Design & Creative Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📊 Skill Proficiency</b></summary>
+<br>
+
+```text
+Android Development    ████████████████████░   95%
+Java                   ███████████████████░░   90%
+UI/UX Design           ██████████████████░░░   85%
+Web Development        █████████████████░░░░   80%
+Python                 ████████████████░░░░░   75%
+Machine Learning       ██████████████░░░░░░░   65%
+Video Editing          ███████████████████░░   90%
+C/C++                  ███████████████░░░░░░   70%
+```
+
+</details>
+
+---
+
+## 🎨 **Featured Projects**
+
+<div align="center">
+
+### 🌟 **Mobile Applications**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 💰 [Cash Book](https://github.com/rohan-rusho/Cash_Book)
+
+<a href="https://github.com/rohan-rusho/Cash_Book">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Cash_Book&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true&show_icons=false" />
 </a>
 
-<br><br>
+**📱 Personal Finance Manager**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=700&color=00C2FF&center=true&vCenter=true&width=900&lines=Junior+Android+Engineer;Full+Stack+Developer;Designer+%26+Video+Editor;Machine+Learning+Enthusiast;Always+Learning+%F0%9F%8C%9F" alt="Typing animation" />
+A lightweight, privacy-focused money management app built with Java. Track income, expenses, e-commerce spending (Daraz, Shopee), set buying limits, and visualize trends.
 
-</div>
+**✨ Key Features:**
+- 💸 Income & Expense Tracking
+- 🛒 E-commerce Spending Monitor
+- 📊 Weekly Trend Visualization
+- 🔒 Privacy-Respecting Design
+- ⚡ Fast & Lightweight
 
----
+**🛠️ Tech Stack:** `Java` `Android` `SQLite` `Material Design`
 
-## 🚀 About Me
-- 👨‍💻 Junior Android Engineer — I love building delightful, fast, and reliable apps
-- 🎓 Final year CSE student at BUBT
-- 💼 Designer & Video Editor at IT Training BD
-- 💻 Strong in Android, Web, App Development, and ML
-- 🎨 Passionate about UI/UX and creative coding
-- ❤️ Open to collaborations and open-source contributions
-- 🩸 Blood Group: O+
+![Stars](https://img.shields.io/github/stars/rohan-rusho/Cash_Book?style=social)
+![Forks](https://img.shields.io/github/forks/rohan-rusho/Cash_Book?style=social)
 
----
+</td>
+<td width="50%">
 
-## 🛠 Tech Stack
+### 😴 [SleepWise](https://github.com/rohan-rusho/SleepWise)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,firebase,sqlite,html,css,js,react,python,cpp,nodejs,express,git,github,vscode,figma" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,capcut" />
-</p>
+<a href="https://github.com/rohan-rusho/SleepWise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=SleepWise&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true&show_icons=false" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-Expert-00C2FF?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Advanced-FF6F00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Creative-ff3d71?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
-</p>
+**🌙 Sleep Tracking & Wellness**
 
----
+Smart sleep tracking application that helps users improve their sleep quality through data-driven insights and personalized recommendations.
 
-## 📊 By the Numbers
+**✨ Key Features:**
+- 📈 Sleep Pattern Analysis
+- ⏰ Smart Alarm System
+- 🎯 Sleep Goals Tracking
+- 📊 Detailed Statistics
+- 🌟 Wellness Tips
+
+**🛠️ Tech Stack:** `Java` `Android` `Room Database` `MPAndroidChart`
+
+![Stars](https://img.shields.io/github/stars/rohan-rusho/SleepWise?style=social)
+![Forks](https://img.shields.io/github/forks/rohan-rusho/SleepWise?style=social)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎤 [Speechify](https://github.com/rohan-rusho/Speechify)
+
+<a href="https://github.com/rohan-rusho/Speechify">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Speechify&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true&show_icons=false" />
+</a>
+
+**🗣️ Speech Recognition Application**
+
+An intelligent speech-to-text application leveraging Android's speech recognition capabilities for seamless voice input and transcription.
+
+**✨ Key Features:**
+- 🎙️ Real-time Speech Recognition
+- 📝 Text-to-Speech Conversion
+- 🌐 Multi-language Support
+- 💾 Save & Share Transcripts
+- 🎯 High Accuracy
+
+**🛠️ Tech Stack:** `Java` `Android` `Speech Recognition API` `ML Kit`
+
+![Stars](https://img.shields.io/github/stars/rohan-rusho/Speechify?style=social)
+![Forks](https://img.shields.io/github/forks/rohan-rusho/Speechify?style=social)
+
+</td>
+<td width="50%">
+
+### 🦷 [DentiCare](https://github.com/rohan-rusho/denticare.github.io)
+
+<a href="https://github.com/rohan-rusho/denticare.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=denticare.github.io&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true&show_icons=false" />
+</a>
+
+**🏥 Dental Clinic Management Website**
+
+A comprehensive web solution for dental clinics featuring appointment booking, patient management, and service showcase with modern UI/UX.
+
+**✨ Key Features:**
+- 📅 Online Appointment System
+- 👥 Patient Portal
+- 📋 Service Management
+- 📱 Responsive Design
+- 📊 Admin Dashboard
+
+**🛠️ Tech Stack:** `PHP` `HTML5` `CSS3` `JavaScript` `MySQL`
+
+![Stars](https://img.shields.io/github/stars/rohan-rusho/denticare.github.io?style=social)
+![Forks](https://img.shields.io/github/forks/rohan-rusho/denticare.github.io?style=social)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<!-- Stats cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=rohan-rusho&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-rusho&layout=compact&theme=tokyonight&hide=html" height="170"/>
+### 🚀 **More Amazing Projects**
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-rusho&theme=tokyonight" alt="GitHub Streak" />
-
-<br/>
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-rusho&custom_title=Contribution%20Graph&bg_color=0D1117&color=00C2FF&line=00E5FF&point=FFFFFF&area=true" />
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohan-rusho&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-  
 <a href="https://github.com/rohan-rusho/TypeFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=TypeFlow&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=TypeFlow&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" width="45%" />
 </a>
 <a href="https://github.com/rohan-rusho/Genify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Genify&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Genify&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" width="45%" />
 </a>
-<br/>
+
 <a href="https://github.com/rohan-rusho/Grammar_Path">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Grammar_Path&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Grammar_Path&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" width="45%" />
 </a>
 <a href="https://github.com/rohan-rusho/CharMeter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=CharMeter&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=CharMeter&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" width="45%" />
 </a>
+
+[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan-rusho?tab=repositories)
 
 </div>
 
 ---
 
-## 🗂️ All Repositories Summary (Auto‑Updated)
+## 📊 **GitHub Analytics**
 
-This section updates automatically every day with your total projects and language usage across all public repositories.
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan-rusho&show_icons=true&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-rusho&theme=react&background=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-rusho&layout=compact&theme=react&bg_color=1F222E&title_color=00D9FF&text_color=FFFFFF&hide_border=true&langs_count=8&hide=html,css" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rohan-rusho&theme=react&bg_color=1F222E&title_color=00D9FF&text_color=FFFFFF&hide_border=true&layout=compact" />
+
+</div>
+
+### 📈 **Contribution Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-rusho&custom_title=Rohan's%20Contribution%20Graph&bg_color=1F222E&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 **Achievements & Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohan-rusho&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 **Professional Experience**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 **IT Training BD**
+**Designer & Video Editor**
+- Creating engaging visual content
+- Producing educational video tutorials
+- Designing marketing materials
+- Managing social media graphics
+
+</td>
+<td width="50%">
+
+### 📱 **Freelance Developer**
+**Android & Web Development**
+- Building custom mobile applications
+- Developing responsive websites
+- UI/UX design and prototyping
+- Client consultation and support
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 **Education & Certifications**
+
+<div align="center">
+
+| 🎓 Institution | 📚 Degree | 📅 Duration | 🎯 Status |
+|:---:|:---:|:---:|:---:|
+| **Bangladesh University of Business & Technology** | B.Sc. in Computer Science & Engineering | 2021 - Present | 🔥 Final Year |
+
+</div>
+
+---
+
+## 📫 **Let's Connect & Collaborate**
+
+<div align="center">
+
+### 🤝 **Open for Opportunities**
+
+I'm always interested in collaborating on innovative projects, contributing to open source, and connecting with fellow developers!
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💼 **Professional**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohanislam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me)](https://rohan-rusho.github.io)
+
+</td>
+<td align="center" width="33%">
+
+### 📧 **Get in Touch**
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:rohanislam.cse@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/rohan-rusho)
+
+</td>
+<td align="center" width="33%">
+
+### 🩸 **Blood Donor**
+[![Blood Group](https://img.shields.io/badge/Blood_Group-O+-DC143C?style=for-the-badge&logo=dropbox)](https://github.com/rohan-rusho)
+[![Available](https://img.shields.io/badge/Status-Available-00C853?style=for-the-badge)](https://github.com/rohan-rusho)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🗂️ **Repository Summary**
+
+<div align="center">
+
+<!-- This section will auto-update via GitHub Actions -->
 
 <!-- REPO_SUMMARY:START -->
-⏳ Initialising… The workflow will populate your repository counts, top languages, and a table of your top projects after its first successful run.
+📊 **Quick Stats:** 
+- 🎯 Total Public Repositories: 20+
+- ⭐ Total Stars Earned: 10+
+- 🔱 Total Forks: 5+
+- 📝 Total Commits (2025): 200+
+
+**Top Languages Across All Repos:**
+`Java` • `HTML` • `CSS` • `JavaScript` • `Python` • `PHP` • `C++`
 <!-- REPO_SUMMARY:END -->
 
----
-
-## 🎯 Skills Snapshot
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-85%25-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-80%25-FFD54F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-70%25-42A5F5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML-60%25-FF8F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design-75%25-E53935?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="mailto:rohanislam.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rohanislam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/rohan-rusho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
+## 💡 **Fun Facts About Me**
+
+<details>
+<summary><b>Click to expand!</b></summary>
+
+- 🌱 Currently diving deep into **Kotlin** and **Jetpack Compose**
+- 🎯 2025 Goal: Contribute to **10+ open-source projects**
+- ⚡ Fun fact: I can debug code and edit videos simultaneously
+- 🎮 Hobbies: Coding, Gaming, Photography, Video Editing
+- ☕ Fuel: Coffee + Music = Productivity
+- 🌏 Dream: Building apps that impact millions of lives
+- 📖 Currently reading: *Clean Code* by Robert C. Martin
+- 🎨 Design Philosophy: *Simplicity is the ultimate sophistication*
+
+</details>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Blood%20Group-O%2B-red?style=for-the-badge&logo=dropbox&logoColor=white" />
-</p>
+## 📝 **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+Coming soon! Stay tuned for insightful articles on Android development, design patterns, and tech tutorials.
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rohan-rusho/rohan-rusho/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohan-rusho/rohan-rusho/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0A2A43,50:00C2FF,100:00E5FF&section=footer" />
+
+### 💖 **Thank You for Visiting!**
+
+![Visitor Count](https://profile-counter.glitch.me/rohan-rusho/count.svg)
+
+**⭐ If you find my work interesting, consider giving a star to my repositories! ⭐**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,12,20,24,30&section=footer" />
+
+**✨ Made with ❤️ by Rohan Islam ✨**
+
 </div>
