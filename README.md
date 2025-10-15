@@ -267,7 +267,7 @@ A comprehensive web solution for dental clinics featuring appointment booking, p
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-rusho&theme=react&background=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-rusho&layout=compact&theme=react&bg_color=1F222E&title_color=00D9FF&text_color=FFFFFF&hide_border=true&langs_count=8&hide=html,css" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rohan-rusho&theme=react&bg_color=1F222E&title_color=00D9FF&text_color=FFFFFF&hide_border=true&layout=compact" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohan-rusho&theme=react&utcOffset=6" />
 
 </div>
 
@@ -342,7 +342,7 @@ I'm always interested in collaborating on innovative projects, contributing to o
 
 ### 💼 **Professional**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohanislam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me)](https://rohan-rusho.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me)](https://rohann-portfolio.netlify.app/)
 
 </td>
 <td align="center" width="33%">
@@ -416,7 +416,9 @@ Coming soon! Stay tuned for insightful articles on Android development, design p
 ## 🐍 **Contribution Snake**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohan-rusho/rohan-rusho/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+![Snake animation](https://github.com/rohan-rusho/rohan-rusho/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ---
