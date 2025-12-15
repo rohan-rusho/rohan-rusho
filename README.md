@@ -252,6 +252,10 @@ A comprehensive web solution for dental clinics featuring appointment booking, p
 <a href="https://github.com/rohan-rusho/CharMeter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=CharMeter&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" width="45%" />
 </a>
+<a href="https://github.com/rohan-rusho/Tic-Tac-Toe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" width="45%" />
+</a>
+
 
 [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan-rusho?tab=repositories)
 
