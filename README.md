@@ -209,6 +209,31 @@ An intelligent speech-to-text application leveraging Android's speech recognitio
 </td>
 <td width="50%">
 
+### 🎤 [Speechify](https://github.com/rohan-rusho/Speechify)
+
+<a href="https://github.com/rohan-rusho/Tic-Tac-Toe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true&show_icons=false" />
+</a>
+
+**🗣️ Tic Tac Toe Game Application**
+
+An intelligent bot vs human / human vs human leveraging Android's game for playing and increase your strength.
+
+**✨ Key Features:**
+- 🎙️ Bot vs Human
+- 📝 2 player mode
+- 🌐 History with exact boards
+- 💾 Settings for animation and sound or vibration.
+- 🎯 Mode Selection (Normal / Medium / Hard)
+
+**🛠️ Tech Stack:** `Java` `Android` `Speech Recognition API` `ML Kit`
+
+![Stars](https://img.shields.io/github/stars/rohan-rusho/Tic-Tac-Toe?style=social)
+![Forks](https://img.shields.io/github/forks/rohan-rusho/Tic-Tac-Toe?style=social)
+
+</td>
+<td width="50%">
+
 ### 🦷 [DentiCare](https://github.com/rohan-rusho/denticare.github.io)
 
 <a href="https://github.com/rohan-rusho/denticare.github.io">
