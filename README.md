@@ -125,7 +125,7 @@ motto: "Code with passion, design with purpose."
 <img src="https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/Cash_Book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Cash_Book&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="Cash Book" width="100%"/>
+  <img src="https://github.com/rohan-rusho/Cash_Book/blob/master/SS/3.png"/>
 </a>
 
 </td>
