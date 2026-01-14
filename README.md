@@ -159,7 +159,7 @@ motto: "Code with passion, design with purpose."
 <img src="https://img.shields.io/badge/Speech%20API-6A1B9A?style=flat-square&logo=google&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/Speechify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Speechify&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="Speechify" width="100%"/>
+  <img src="https://github.com/rohan-rusho/Speechify/blob/master/SS/3.png"/>
 </a>
 
 </td>
@@ -173,7 +173,7 @@ motto: "Code with passion, design with purpose."
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/Tic-Tac-Toe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="Tic Tac Toe" width="100%"/>
+  <img src="https://github.com/rohan-rusho/Tic-Tac-Toe/blob/master/SS/8.png"/>
 </a>
 
 </td>
