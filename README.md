@@ -47,7 +47,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" style="max-width: 360px; width: 100%;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ```yaml
 name: MD Rohan Islam
@@ -114,26 +114,34 @@ motto: "Code with passion, design with purpose."
 <tr>
 <td width="50%" valign="top">
 
-### Cash Book — Personal Finance Manager
+#### Cash Book — Personal Finance Manager
 - Track income/expenses and visualize spending trends  
-- Lightweight + privacy-focused
+- Lightweight + privacy-focused  
 
-**Tech:** `Java` `Android` `SQLite` `Material Design`
+**Tech:**  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/Cash_Book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Cash_Book&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Cash_Book&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="Cash Book" width="100%"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### SleepWise — Sleep Tracking & Wellness
-- Sleep pattern insights + goals + smart alarm experience
+#### SleepWise — Sleep Tracking & Wellness
+- Sleep pattern insights + goals + smart alarm experience  
 
-**Tech:** `Java` `Android` `Room` `MPAndroidChart`
+**Tech:**  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-4CAF50?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/MPAndroidChart-4A90E2?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/SleepWise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=SleepWise&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=SleepWise&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="SleepWise" width="100%"/>
 </a>
 
 </td>
@@ -142,25 +150,30 @@ motto: "Code with passion, design with purpose."
 <tr>
 <td width="50%" valign="top">
 
-### Speechify — Speech to Text + TTS
-- Real-time speech recognition and sharing transcripts
+#### Speechify — Speech to Text + TTS
+- Real-time speech recognition and sharing transcripts  
 
-**Tech:** `Java` `Android` `Speech API`
+**Tech:**  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Speech%20API-6A1B9A?style=flat-square&logo=google&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/Speechify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Speechify&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Speechify&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="Speechify" width="100%"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### Tic Tac Toe — Bot vs Human / 2-Player
-- Difficulty modes + clean UI + match history
+#### Tic Tac Toe — Bot vs Human / 2-Player
+- Difficulty modes + clean UI + match history  
 
-**Tech:** `Java` `Android`
+**Tech:**  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/Tic-Tac-Toe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="Tic Tac Toe" width="100%"/>
 </a>
 
 </td>
@@ -169,19 +182,24 @@ motto: "Code with passion, design with purpose."
 <tr>
 <td width="50%" valign="top">
 
-### DentiCare — Dental Clinic Website
-- Appointment + service showcase with responsive design
+#### DentiCare — Dental Clinic Website
+- Appointment + service showcase with responsive design  
 
-**Tech:** `PHP` `HTML` `CSS` `JavaScript` `MySQL`
+**Tech:**  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/denticare.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=denticare.github.io&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=denticare.github.io&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="DentiCare" width="100%"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### Explore More
+#### Explore More
 <a href="https://github.com/rohan-rusho?tab=repositories">
   <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
 </a>
@@ -258,9 +276,7 @@ motto: "Code with passion, design with purpose."
 ## Snake (Contributions)
 
 <div align="center">
-
-<img src="https://github.com/rohan-rusho/rohan-rusho/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
+  <img src="https://github.com/rohan-rusho/rohan-rusho/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 ---
