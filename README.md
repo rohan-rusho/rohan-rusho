@@ -193,7 +193,7 @@ motto: "Code with passion, design with purpose."
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/denticare.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=denticare.github.io&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="DentiCare" width="100%"/>
+  <img src="https://github.com/rohan-rusho/denticare.github.io/blob/main/SS/Picture1.png"/>
 </a>
 
 </td>
