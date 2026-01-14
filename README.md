@@ -47,7 +47,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" style="max-width: 360px; width: 100%;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ```yaml
 name: MD Rohan Islam
