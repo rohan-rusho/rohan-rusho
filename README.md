@@ -141,7 +141,7 @@ motto: "Code with passion, design with purpose."
 <img src="https://img.shields.io/badge/MPAndroidChart-4A90E2?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
 <a href="https://github.com/rohan-rusho/SleepWise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-rusho&repo=SleepWise&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true" alt="SleepWise" width="100%"/>
+  <img src="https://github.com/rohan-rusho/SleepWise/blob/master/SS/4.png"/>
 </a>
 
 </td>
