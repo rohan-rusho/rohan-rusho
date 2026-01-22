@@ -20,7 +20,7 @@
 <a href="https://rohann-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/rohanislam">
+<a href="https://www.linkedin.com/in/rusho-rohan/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:rohanislam.cse@gmail.com">
