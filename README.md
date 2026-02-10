@@ -184,7 +184,7 @@
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-rusho&layout=compact&theme=react&bg_color=1F222E&title_color=00D9FF&text_color=FFFFFF&hide_border=true&langs_count=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-rusho&layout=compact&theme=react&bg_color=1F222E&title_color=00D9FF&text_color=FFFFFF&hide_border=true&langs_count=10&cache_seconds=1800" />
 
 </div>
 
