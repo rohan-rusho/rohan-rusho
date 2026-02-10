@@ -179,7 +179,8 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohan-rusho&show_icons=true&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-rusho&theme=react&background=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=rohan-rusho&theme=react&background=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" />
 
 <br/>
 
