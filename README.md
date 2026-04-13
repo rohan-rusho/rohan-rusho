@@ -203,7 +203,7 @@
 ## Education
 
 - **B.Sc. in CSE — Bangladesh University of Business & Technology (BUBT)**  
-  **2021 — Present (Final Year)**
+  **2022 — 2025**
 
 ---
 
@@ -230,11 +230,6 @@
 
 ---
 
-## Snake (Contributions)
-
-<div align="center">
-  <img src="https://github.com/rohan-rusho/rohan-rusho/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
 
 ---
 
