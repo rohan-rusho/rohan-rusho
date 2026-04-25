@@ -136,7 +136,13 @@ Network speed test with a straightforward UI.
 - Clean preview UI  
 
 <a href="https://github.com/rohan-rusho/speed">
-  <img src="https://github.com/rohan-rusho/speed/blob/585234861494f900d20d3d27e453d4f897e21020/screenshots/preview.png" width="100%" alt="Speed screenshot"/>
+  <div style="aspect-ratio: 9 / 16; width: 100%; max-width: 520px; overflow: hidden; border-radius: 14px;">
+    <img
+      src="https://github.com/rohan-rusho/speed/blob/585234861494f900d20d3d27e453d4f897e21020/screenshots/preview.png"
+      alt="Speed screenshot (cropped)"
+      style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
+    />
+  </div>
 </a>
 
 </td>
@@ -172,7 +178,13 @@ Dental clinic website — services + appointment flow.
 
 <!-- TODO: replace if you want a different DentiCare screenshot -->
 <a href="https://github.com/rohan-rusho/denticare.github.io">
-  <img src="https://github.com/rohan-rusho/denticare.github.io/blob/main/SS/Picture1.png" width="100%" alt="DentiCare screenshot"/>
+  <div style="aspect-ratio: 9 / 16; width: 100%; max-width: 520px; overflow: hidden; border-radius: 14px;">
+    <img
+      src="https://github.com/rohan-rusho/denticare.github.io/blob/main/SS/Picture1.png"
+      alt="DentiCare screenshot (cropped)"
+      style="width: 100%; height: 100%; object-fit: cover; object-position: center top;"
+    />
+  </div>
 </a>
 
 </td>
