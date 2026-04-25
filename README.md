@@ -60,6 +60,21 @@ I enjoy shipping real products — from design → development → release.
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohan-rusho&show_icons=true&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=rohan-rusho&theme=react&background=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-rusho&layout=compact&theme=react&bg_color=1F222E&title_color=00D9FF&text_color=FFFFFF&hide_border=true&langs_count=10&cache_seconds=1800" />
+
+</div>
+
+---
+
 ## ⭐ Featured Projects (with Screenshots)
 
 <table>
@@ -210,21 +225,6 @@ Bot vs Human / 2-player game with clean UI.
   <a href="https://github.com/rohan-rusho?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
   </a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohan-rusho&show_icons=true&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=rohan-rusho&theme=react&background=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-rusho&layout=compact&theme=react&bg_color=1F222E&title_color=00D9FF&text_color=FFFFFF&hide_border=true&langs_count=10&cache_seconds=1800" />
-
 </div>
 
 ---
